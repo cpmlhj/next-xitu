@@ -11,3 +11,9 @@ cd next-xitu
 
 yarn
 ```
+
+## Run
+
+```
+yarn dev
+```

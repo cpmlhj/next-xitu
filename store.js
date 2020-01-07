@@ -4,7 +4,6 @@ import SystemService from './serve'
 import { composeWithDevTools } from 'redux-devtools-extension'
 // state
 const initState = {
-      selectTypes: 'frontend',
       JueJin: [],
       github: [],
       JueJinCategory: 'frontend',

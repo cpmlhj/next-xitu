@@ -4,4 +4,9 @@ nextJS+Express+ redux+antd
 
 ## Install
 
-**git**
+**git clone https://github.com/cpmlhj/next-xitu.git**
+
+**cd next-xitu**
+
+
+**yarn**

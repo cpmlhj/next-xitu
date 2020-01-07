@@ -1,0 +1,111 @@
+.left {
+      width: 400px;
+}
+
+.left-head {
+      display: flex;
+      align-items: center;
+      height: 50px;
+      box-sizing: border-box;
+      border-radius: 5px;
+      padding: 9px;
+      background: #fff;
+}
+
+.left-img {
+      height: 34px;
+      border-radius: 5px;
+      width: 34px;
+}
+
+.left-title {
+      color: rgb(4, 74, 171);
+      margin-left: 10px;
+      display: inline-block;
+      width: 30px;
+}
+
+.left-select {
+      margin-left: 20px;
+      border-radius: 2px;
+      color: #646c7b;
+      background-color: #f8f9fb;
+      cursor: pointer;
+}
+
+.left-radio {
+      display: inline-block;
+      margin: 0 .1rem;
+      width: 3.6rem;
+      height: 3.5rem;
+      font-size: 16px;
+      text-align: center;
+      line-height: 3.5rem;
+      color: #646c7b;
+      opacity: .3;
+      cursor: pointer
+}
+
+.left-radio:hover {
+      color: #646c7b;
+      opacity: .9;
+}
+
+.active {
+      opacity: .9;
+}
+
+.left-list {
+      height: 82vh;
+      overflow: auto;
+      position: relative;
+      margin-top: 10px;
+}
+.loading-left {
+      position: absolute;
+      margin-top: 30px;
+      left: 40%;
+}
+
+.list-item {
+      background: #fff;
+      margin-top: 10px;
+      height: 54px;
+      cursor: pointer;
+      display: flex;
+      border-radius: 5px;
+}
+
+.list-item-meta {
+      position: relative;
+      display: flex;
+      flex-flow: column wrap;
+      justify-content: center;
+      align-content: center;
+      width: 34px;
+      text-align: center;
+      height: 44px;
+      font-size: 12px;
+      background: #007fff;
+      margin-left: 6px;
+      color: #fff
+}
+
+.list-item-content {
+      display: flex;
+      flex-flow: column wrap;
+      justify-content: center;
+      align-content: space-around;
+      margin-left: 6px;
+}
+
+.list-item-content div {
+      text-overflow: ellipsis;
+      overflow: hidden;
+      width: 300px;
+      white-space: nowrap;
+}
+
+.list-item-content small {
+      color: #c2c5cd
+}

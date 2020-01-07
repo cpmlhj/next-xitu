@@ -1,0 +1,50 @@
+.header {
+      height: 50px;
+      background: #fff;
+      display: flex;
+      padding: 0 20px;
+      align-items: center;
+      box-sizing: border-box;
+}
+
+.img {
+      width: 60px;
+      height: 38px;
+}
+
+.search-input {
+      flex: 1 0 auto;
+      margin: 0 2.2rem 0 1rem;
+
+}
+
+.search-input input {
+      width: 50%;
+      font-size: 1rem;
+      line-height: 1.5;
+      padding: .5rem;
+      border: 1px solid #e6edf4;
+      border-radius: 2px;
+      background-color: #f1f5fa;
+}
+
+.book-binner {
+      padding-left: 30px;
+      opacity: .8;
+      font-size: 16px;
+      color: #007fff;
+      white-space: nowrap
+}
+
+.book-binner span {
+      margin-left: 5px;
+}
+
+.search-select {
+      color: #007fff;
+}
+
+.search-select-text {
+      color: #767e8d;
+      margin-left: 20px;
+}

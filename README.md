@@ -16,5 +16,7 @@ yarn
 
 ```
 yarn dev
+
+node mock
 ```
 ![image](demo.png)

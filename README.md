@@ -1,5 +1,5 @@
 # next-xitu
-nextJS+Express+ redux+antd 掘进首页服务端的实现，供学习所用~~~
+nextJS+Express+ redux+antd 掘进首页服务端渲染的实现，供学习所用~~~
 
 
 ## Install
